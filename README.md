@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Pradyumna2704
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning data science
 - 📫 How to reach me - pradyumna.mangave@gmail.com
 
 <!---
